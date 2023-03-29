@@ -2,17 +2,16 @@
 <h1>Hi theme👋 I`m Alexsey</h1>
 <h3>Front-End Developer from Saint Petersburg</h3> 
 <div id="badges">
-  [VK](https://t.me/volter_2109){:target="_blank"}
-  <a href="https://t.me/volter_2109" target="_blank">
+  <a href="https://t.me/volter_2109" >
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://vk.com/tobe2108" target="_blank">
+  <a href="https://vk.com/tobe2108" >
     <img src="https://img.shields.io/badge/VK-red?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="youen@mail.ru" target="_blank">
+  <a href="youen@mail.ru" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-   <a href="https://wa.me/79111545758" target="_blank">
+   <a href="https://wa.me/79111545758" >
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
 </div>
