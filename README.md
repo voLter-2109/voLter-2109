@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi theme👋 I`m Alexsey</h1>
+<h1>Hi there👋 I`m Alexsey</h1>
 <h3>Front-End Developer from Saint Petersburg</h3> 
 <div id="badges">
   <a href="https://t.me/volter_2109" >
