@@ -2,6 +2,7 @@
 <h1>Hi theme👋 I`m Alexsey</h1>
 <h3>Front-End Developer from Saint Petersburg</h3> 
 <div id="badges">
+  [VK](https://t.me/volter_2109){:target="_blank"}
   <a href="https://t.me/volter_2109" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
