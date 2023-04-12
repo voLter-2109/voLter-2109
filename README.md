@@ -37,10 +37,32 @@
 <h2 align="center">Open source projects</h2>
 
 <ul>
-  <li>Lorem</li>
-  <li>Lorem</li>
-  <li>Lorem</li>
-  <li>Lorem</li>
-  </ul>
+  <li>
+  
+  [redux-training](https://github.com/voLter-2109/redux-training)
+  </li>
+  <li>
+  
+  [practicJsHtmlScssPresent](https://github.com/voLter-2109/practicJsHtmlScssPresent)</li>
+  <li>
+  
+  [personalUIlibrary-JS](https://github.com/voLter-2109/personalUIlibrary-JS)</li>
+  <li>
+  
+  [general-training](https://github.com/voLter-2109/general-training)</li>
+   </ul>
+  <h1 align="center">
+
+[Progect](https://github.com/voLter-2109/projects)
+
+  </h1>
+
+<h1 align="center"> MAGAZIN</h1>
+
+![Settings Window](https://raw.github.com/voLter-2109/projects/main/magazin.png)
+
+<h1 align="center">MARVEL API</h1>
+
+![Settings Window](https://raw.github.com/voLter-2109/projects/main/marvel.png)
 
 <br/>
