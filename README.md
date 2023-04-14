@@ -50,6 +50,9 @@
   <li>
   
   [general-training](https://github.com/voLter-2109/general-training)</li>
+  <li>
+  
+  [project](https://github.com/voLter-2109/projects)</li>
    </ul>
   <h1 align="center">
 
