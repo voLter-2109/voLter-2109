@@ -53,7 +53,7 @@
    </ul>
   <h1 align="center">
 
-[Progect](https://github.com/voLter-2109/projects)
+[Project](https://github.com/voLter-2109/projects)
 
   </h1>
 
