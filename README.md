@@ -53,6 +53,11 @@
   <li>
   
   [project](https://github.com/voLter-2109/projects)</li>
+  <li>
+    
+  [new project (разработка)](https://github.com/voLter-2109/socialNewWork)</li>
+
+  
    </ul>
   <h1 align="center">
 
