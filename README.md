@@ -39,6 +39,10 @@
 <ul>
   <li>
   
+  [nextjs+nestjs admin|auth|sql](https://github.com/voLter-2109/shopTailwindV2)
+  </li>
+  <li>
+  
   [redux-training](https://github.com/voLter-2109/redux-training)
   </li>
   <li>
@@ -55,12 +59,19 @@
   [WebSocket_Socket.IO](https://github.com/voLter-2109/WebSocket_Socket.IO)</li>
   <li>
   
-  [project](https://github.com/voLter-2109/projects)</li>
+  [pet-project](https://github.com/voLter-2109/projects)</li>
+
+ <h1 align="center">
+   
+   [NEW_Shop Nextjs+Nestjs](https://github.com/voLter-2109/shopTailwindV2/tree/main)
+  </h1>
+
+![wow it`s website](https://github.com/voLter-2109/shopTailwindV2/blob/main/wow.jpg)
   
    </ul>
   <h1 align="center">
 
-[Project](https://github.com/voLter-2109/projects)
+[Pet-Project](https://github.com/voLter-2109/projects)
 
   </h1>
 
